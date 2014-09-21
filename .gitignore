@@ -27,4 +27,4 @@ proguard/
 
 *.iml
 .DS_STORE
-.idea
+wear/src/main/java/no/bekk/yowear/ApiConfig.java

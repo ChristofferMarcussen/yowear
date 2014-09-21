@@ -4,5 +4,6 @@
     <string name="app_name">YoWear</string>
     <string name="hello_round">Hello Round World!</string>
     <string name="hello_square">Hello Square World!</string>
+    <string name="yo_label">Yo</string>
 
 </resources>
